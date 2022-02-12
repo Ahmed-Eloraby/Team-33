@@ -2,7 +2,7 @@
 	
 	How To Run and Play:
 	
-	Launch the Game from Controller class in engine package.
+	1-Launch the Game from Controller class in engine package.
 	
 	The Game starts with displaying a window prompting First player to choose a Hearthstone Hero to play with,
 	by clicking the button of his desired Hero class name.
